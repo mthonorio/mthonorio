@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 Sou estudante de Engenharia da Computação na Universidade Federal da Paraíba. Atualmente estou trabalhando com:
 
-- 💻 Estágio de Desenvolvimento de Software (Backend) na PbHub
+- 💻 Analista de Qualidade na Digivox
 - 💉 Bolsista na área de Qualidade de Software no Laboratório de Aplicações de Vídeo Digital (LAVID) na UFPB
 
 <details>
