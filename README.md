@@ -24,7 +24,6 @@
 Tenho 22 anos, sou estudante de Engenharia da Computação na Universidade Federal da Paraíba e adoro tartarugas. Buscando aventuras no universo da programação e quanto mais aprendo e passo raiva, mais amo o que faço!
 
 ### 🖥️ Tecnologias e Ferramentas: 
-<img width="250px" align="right" src="https://i.ibb.co/JFNBnBW/1683638366654-1.png">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TYPESCRIPT"/> </code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title = "CPLUSPLUS"/></code>
