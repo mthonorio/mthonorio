@@ -1,36 +1,48 @@
-<!--
-### Hi there 👋
+<img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/XtSP8gq/1683638366681-removebg.png">
 
-**mthonorio/mthonorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
 
-Here are some ideas to get you started:
+<div dsplay="inline-block">
+ 
+ <h1 align="left">Matheus Honório</h1>
+ <a href="https://github.com/mthonorio/CinemaSauro-backend">
+    <img align="left" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" style="vertical-align:top;">
+  </a> 
+  <a href="https://github.com/mthonorio/Big-Game-Survey">
+    <img align="left" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" style="vertical-align:top;">
+  </a>
+  <a href="">
+    <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" style="vertical-align:top;">
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+</br>
 
-## Olá 🙋‍♂️! 
+## Hello, Devs!!!
 
-### Sobre mim
+Tenho 22 anos, sou estudante de Engenharia da Computação na Universidade Federal da Paraíba e adoro tartarugas. Buscando aventuras no universo da programação e quanto mais aprendo e passo raiva, mais amo o que faço!
 
-Sou estudante de Engenharia da Computação na Universidade Federal da Paraíba. Atualmente estou trabalhando com:
+### 🖥️ Tecnologias e Ferramentas: 
+<img width="300px" align="right" src="https://i.ibb.co/JFNBnBW/1683638366654-1.png">
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TYPESCRIPT"/> </code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title = "CPLUSPLUS"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title = "DOCKER"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID"/></code>
 
-- 💻 Analista de Qualidade na Digivox
-- 💉 Bolsista na área de Qualidade de Software no Laboratório de Aplicações de Vídeo Digital (LAVID) na UFPB
-
-<details>
-  <summary><strong>Experiências e conhecimentos:</strong></summary>
-  - 👨‍💻 Experiência com C/C++ em projetos pessoais, graduação e projeto de pesquisa<br/>
-  - 😯 Experiência com Python em projetos pessoais, graduação e projeto de pesquisa <br/>
-  - 👌 Experiência com Testes de Software em projetos pessoais, estágio, graduação e projeto de pesquisa. <br/>
-  - 💻 Experiência em Desenvolvimento de Web Application com Java, TypeScript, JavaScript, NodeJS e PostgreSQL em projetos pessoais, estágio, graduação e projeto de pesquisa.
-</details>
+</br>
+</br>
+<div display="inline-block">
+ <p align="left">👨‍💻 Faço parte do Studio X da <a href="https://www.digivox.com.br/">Digivox</a>;</p>
+ <p align="left">📚 Tenho estudado Python, JavaScript e TypeScript e iniciei meus estudos para desenvolver apps como projeto de pesquisa;</p>
+ <p align="left">💻 Experimentando o universo do Frontend para Web e Mobile applications</p>
+ <p align="left">🤖 Tenho 2 anos de experiência como Analista de automação de testes</p> 
+ <p align="left">☕🎮 só acordo com café, adoro games e esportes (o que não significa que jogue bem) e faço piadas ruins com certa frequência.</p>
+</div>
 
 ---
 
